@@ -1,0 +1,3 @@
+[submodule "IPA Dictionary/ipa-dict"]
+	path = IPA Dictionary/ipa-dict
+	url = git@github.com:open-dict-data/ipa-dict.git
